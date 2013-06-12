@@ -20,5 +20,13 @@ javascript
 <option value="s">dq</option>
 <option value="s">eww</option>
 <option value="s">dd</option>
+
+
+
+
+<input type="date">
+<input type="color">
+
+
 </select>
  
