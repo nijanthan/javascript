@@ -25,6 +25,9 @@ javascript
 
 
 <input type="date">
+
+
+web form and death  <--- cource
 <input type="color">
 
 
