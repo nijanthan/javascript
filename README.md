@@ -14,4 +14,11 @@ javascript
 <input type="password" name="lastname">
 <input type="checkbox" name="lastname">
 <input type="hidden">
+<input type="image"  src="C:\gg.jpg" alt="hi"/>
+<button>jjf  ff</button>
+<select name="nijn"><option value="s">qq</option>
+<option value="s">dq</option>
+<option value="s">eww</option>
+<option value="s">dd</option>
+</select>
  
