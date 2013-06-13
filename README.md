@@ -31,6 +31,10 @@ web form and death  <--- cource
 css:style form  <--- cource
 <input type="color">
 
+--->ca i use website
 
-</select>
- 
+ maxlength="3" min="2"
+<input name="name" maxlength="2" required placeholder="pls enter your name" id="namefield" />
+
+
+<input type="email" multiple name="email" id="emailfield" /> //send multiple mail
