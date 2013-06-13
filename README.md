@@ -68,3 +68,17 @@ document.theform.myname.type="text"
 "text"
 
 
+34... handle form -->> onfocus,onblur
+
+
+
+document.theform.myname.onfocus=function() {
+ 	document.getElementById('mynamehint').innerHTML = "(Enter last name as nijan, then first)";
+	}
+
+	document.theform.myname.onblur=function() {
+		document.getElementById('mynamehint').innerHTML = "";
+	}
+
+
+
