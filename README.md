@@ -40,6 +40,16 @@ website--->can i use website
 <input type="email" multiple name="email" id="emailfield" /> //send multiple mail
 website<-- html 5 pattern
 website-->mime media type
+
+
+ 
 regexpal <--- online tool
 requler express cheet sheet <--search google
 using reguler expresstion <--- cource
+
+
+33.google crome right click  inspct elements - console type
+document.getElementById("myform")
+document.getElementById("myform").getElementByTagName("input")[1]
+document.getElementById("myname")
+
