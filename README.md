@@ -52,4 +52,19 @@ using reguler expresstion <--- cource
 document.getElementById("myform")
 document.getElementById("myform").getElementByTagName("input")[1]
 document.getElementById("myname")
+document.theform.myname.ty
+undefined
+document.theform.myname.type
+"text"
+document.theform.myname.id
+"myname"
+document.theform.myname.value
+""
+document.theform.myname.ATTRIBUTE_NODE
+2
+document.theform.myname.type="radio"
+"radio"
+document.theform.myname.type="text"
+"text"
+
 
