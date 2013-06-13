@@ -31,10 +31,15 @@ web form and death  <--- cource
 css:style form  <--- cource
 <input type="color">
 
---->ca i use website
+website--->can i use website
 
  maxlength="3" min="2"
 <input name="name" maxlength="2" required placeholder="pls enter your name" id="namefield" />
 
 
 <input type="email" multiple name="email" id="emailfield" /> //send multiple mail
+website<-- html 5 pattern
+website-->mime media type
+regexpal <--- online tool
+requler express cheet sheet <--search google
+using reguler expresstion <--- cource
